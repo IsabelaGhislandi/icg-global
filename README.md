@@ -1,6 +1,6 @@
 # I.C.G. Global - Portfolio Website
 
-A modern, interactive portfolio website built with cutting-edge web technologies. This project is currently **in development** and showcases innovative design patterns and user interactions.
+A portfolio website built with cutting-edge web technologies. This project is currently **in development** and showcases innovative design patterns and user interactions.
 
 ## 🚧 Project Status
 
@@ -137,18 +137,5 @@ npm run type-check   # Run TypeScript compiler
 - Safari 14+
 - Edge 90+
 
-## 🤝 Contributing
-
-This project is currently in development. Contributions are welcome once the initial version is complete.
-
-## 📄 License
-
-This project is proprietary. All rights reserved.
-
-## 📞 Contact
-
-For questions about this project, please contact the development team.
-
----
 
 **Note**: This is a work in progress. Features and documentation will be updated as development continues.
